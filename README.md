@@ -42,7 +42,7 @@ A MCP server that performs mathematical calculations and automatically creates P
    ```
    uv run mcp-client.py
    # or
-   uv run ai-agent.py
+   uv run talk2mcp.py
    ```
 
 ## Example Operations
